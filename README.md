@@ -11,4 +11,4 @@ Install [Vagrant](https://www.vagrantup.com/docs/installation/) and [VirtualBox]
 Execute `vagrant up` and then copy the result with `copyrepo.sh`, the result will then be copied to the local file shibboleth.tar.bz2
 
 ### Manual handling
-You can ssh into the box with `vagrant ssh` (provided that you started it with `vagrant up`). This is may be usefull if you wan't to do something more with the packages before creating the package-file.
+You can ssh into the box with `vagrant ssh` (provided that you started it with `vagrant up`). This is may be usefull if you wan't to do something more with the packages before creating the final package-file.
